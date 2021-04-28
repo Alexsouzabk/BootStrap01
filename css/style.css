@@ -15,15 +15,7 @@ body {
 
 .margin {
   padding-top: 2px;
-  padding-bottom: 50px;
-}
-
-.preta {
-  background-color: white;
-}
-
-.branca {
-  background-color: black;
+  padding-bottom: 40px;
 }
 
 .parceiros {
@@ -32,4 +24,17 @@ body {
 
 .nav-item {
   padding-top: 10px;
+}
+
+.msg1 {
+  color: beige;
+}
+
+.servicos {
+  background-color: #1e8449;
+}
+
+.bg-footer {
+  background-color: white;
+  padding-bottom: 0%;
 }
